@@ -1,15 +1,9 @@
 # FlutterBudgetingApp
-A new Flutter project.
+A budgeting app in Flutter. 
 
-## Getting Started
+As you can see there are 3 items in the bottom navigation bar:
+  1. The first is the budgeting page
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-05-16 at 20 57 29](https://github.com/hessio/FlutterBudgetingApp/assets/23244853/c814b514-01b1-43dc-ae98-ba4c2302bf9b)
+  2. The second page is using the chatGPT api to ask questions. The idea was to make add the ability to ask questions that would be a starting point for imoroving the user's financial situation. [Needs to be implemented]
+  3. App settings. [Needs to be implemented]
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
