@@ -49,3 +49,4 @@ app.*.map.json
 /macos
 /web
 /windows
+/ios/Runner
