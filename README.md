@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FlutterBudgetingApp
 A new Flutter project.
 
